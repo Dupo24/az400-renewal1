@@ -1,4 +1,4 @@
-#Start
+#Start workflow
 name: Stage the app
 
 on:
